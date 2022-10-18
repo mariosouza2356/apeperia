@@ -1,2 +1,2 @@
-# apeperia
-projeto finalizado responsivo
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
